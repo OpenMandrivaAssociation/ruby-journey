@@ -3,7 +3,7 @@
 Name:		ruby-journey
 Summary:	Ruby router
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Ruby
 URL:		http://rubygems.org/gems/journey

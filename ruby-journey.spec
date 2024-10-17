@@ -6,7 +6,7 @@ Version:	1.0.3
 Release:	2
 License:	MIT
 Group:		Development/Ruby
-URL:		http://rubygems.org/gems/journey
+URL:		https://rubygems.org/gems/journey
 Source0:	http://rubygems.org/downloads/journey-1.0.3.gem
 BuildArch:	noarch
 BuildRequires:	ruby-RubyGems
